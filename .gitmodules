@@ -1,0 +1,9 @@
+[submodule "libs/raylib"]
+	path = libs/raylib
+	url = https://github.com/raysan5/raylib
+[submodule "libs/imgui"]
+	path = libs/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "libs/rlimgui"]
+	path = libs/rlimgui
+	url = https://github.com/raylib-extras/rlImGui
